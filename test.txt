@@ -1,1 +1,2 @@
 my first work whith git
+same git change 
